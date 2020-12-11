@@ -17,8 +17,11 @@
     ·
     <a href="#installation"><b>INSTALLATION INSTRUCTIONS</b></a>
   </p>
+  <p align="center">
+  <b><a href="https://paypal.me/ottomated">DONATE TO THE PROJECT</a></b>
+  (all donations will be used for server costs or paying for college)
+  </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -58,6 +61,7 @@ Server code is located at [ottomated/CrewLink-server](https://github.com/ottomat
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+* [Python](https://www.python.org/downloads/)
 * [node.js](https://nodejs.org/en/download/)
 * yarn
 ```sh
